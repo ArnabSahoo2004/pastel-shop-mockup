@@ -52,6 +52,21 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				pastel: {
+					purple: '#9b87f5',
+					'light-purple': '#E5DEFF',
+					pink: '#FFDEE2',
+					peach: '#FDE1D3',
+					yellow: '#FEF7CD',
+					green: '#F2FCE2',
+					blue: '#D3E4FD',
+					gray: '#F1F0FB',
+				},
+				shop: {
+					primary: '#9b87f5',
+					secondary: '#7E69AB',
+					neutral: '#8E9196',
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
